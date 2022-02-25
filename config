@@ -7,17 +7,17 @@
 	ignorecase = true
 	hideDotFiles = dotGitOnly
 [remote "github"]
-	url = https://github.com/handywebprojects/fbserv.git
+	url = https://github.com/codingforhelp/fbserv.git
 	fetch = +refs/heads/*:refs/remotes/github/*
 [remote "gitlab"]
-	url = https://gitlab.com/handywebprojects/fbserv.git
+	url = https://gitlab.com/codingforhelp/fbserv.git
 	fetch = +refs/heads/*:refs/remotes/gitlab/*
 [user]
 	name = handywebprojects
 	email = handywebprojects@gmail.com
-	[credential "https://github.com/handywebprojects/fbserv.git"]
+	[credential "https://github.com/codingforhelp/fbserv.git"]
 		username = handywebprojects
-	[credential "https://gitlab.com/handywebprojects/fbserv.git"]
+	[credential "https://gitlab.com/codingforhelp/fbserv.git"]
 		username = handywebprojects
 [remote "heroku"]
 	url = https://git.heroku.com/fbserv.git
